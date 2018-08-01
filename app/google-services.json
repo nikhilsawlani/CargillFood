@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388463872860",
+    "firebase_url": "https://cargillfood-f1c90.firebaseio.com",
+    "project_id": "cargillfood-f1c90",
+    "storage_bucket": "cargillfood-f1c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388463872860:android:a36096c31c84e6f7",
+        "android_client_info": {
+          "package_name": "com.cargill.cargillfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388463872860-q7lngh2dp7mmp8jpeukls0f77hqdj4nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargill.cargillfood",
+            "certificate_hash": "0d20a9fbc30f42f8a58c90e7e221c890f1193c52"
+          }
+        },
+        {
+          "client_id": "388463872860-dsqaqqdt04f2n566f02gd7tp61tdpl7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitqF8rw9vRMV6-25gtZTVVRYiN2SzKbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388463872860-dsqaqqdt04f2n566f02gd7tp61tdpl7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
